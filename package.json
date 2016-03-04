@@ -1,12 +1,20 @@
 {
   "name": "session2",
   "version": "1.0.0",
-  "description": "",
+  "description": "printing name",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/inventvenkat/sample.git"
+  },
+  "bugs": {
+    "url": "https://github.com/inventvenkat/sample/issues"
+  },
+  "homepage": "https://github.com/inventvenkat/sample#readme"
 }
